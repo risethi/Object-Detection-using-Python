@@ -1,2 +1,2 @@
-# Object-Detection-_Coursera
+# Object Detection
 ## Computer Vision - Object Detection with OpenCV and Python
